@@ -51,6 +51,6 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
-},
-"homepage": "git@github.com:NoHara42/LauchMarkeLive.git"
+  ],
+  "homepage": "git@github.com:NoHara42/LauchMarkeLive.git"
+}
