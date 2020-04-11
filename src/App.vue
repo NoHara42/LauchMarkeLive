@@ -144,5 +144,11 @@ h1 {
     max-width: 40%;
     height: auto;
   }
+  .tshirt {
+    margin-top: 30px;
+    align-self: center;
+    max-width: 20%;
+    height: auto;
+  }
 }
 </style>
