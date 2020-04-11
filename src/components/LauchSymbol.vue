@@ -23,6 +23,7 @@ export default class HelloWorld extends Vue {
         justify-content: center;
         margin-right: 15px;
         align-items: center;
+        overflow: hidden;
     }
     .responsiveLauch {
         max-width: 5%;

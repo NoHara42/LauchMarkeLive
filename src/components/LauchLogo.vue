@@ -21,6 +21,7 @@ export default class HelloWorld extends Vue {
         display: flex;
         justify-content: center;
         align-items: center;
+        overflow: hidden;
     }
     .responsiveLogo {
         max-width: 55%;
