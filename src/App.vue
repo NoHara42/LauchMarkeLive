@@ -35,7 +35,7 @@
           <h1 class="top"> Angelockt?. <p></p> Send us mail!</h1>
           <div class="gallery">
             <a href="mailto:mailned42@gmail.com?subject=Bitte bitte kann ich ein T-Shirt haben">
-              <img src="./assets/mail-letter.png" >
+              <img class="mail" src="./assets/mail-letter.png" >
             </a>
           </div>
         </section>
@@ -122,6 +122,10 @@ h1 {
 }
 .tshirt {
   max-width: 20%;
+  height: auto;
+}
+.mail {
+  max-width: 100%;
   height: auto;
 }
 
