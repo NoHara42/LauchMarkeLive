@@ -125,7 +125,7 @@ h1 {
   height: auto;
 }
 .mail {
-  max-width: 100%;
+  max-width: 85%;
   height: auto;
 }
 
