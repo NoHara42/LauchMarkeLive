@@ -78,7 +78,8 @@ html, body {
 }
 .container {
   height: 100vh;
-  overflow: scroll;
+  overflow-y: auto;
+  overflow-x: hidden;
   scroll-behavior: smooth;
   scroll-snap-type: y mandatory;
 }
@@ -115,9 +116,8 @@ h1 {
   justify-content: space-evenly;
 }
 .polaroids {
-  justify-self: center;
   border-radius: 50%;
-  max-width: 40%;
+  max-width: 20%;
   height: auto;
 }
 
