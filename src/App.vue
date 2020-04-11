@@ -25,10 +25,10 @@
         <section id="tshirts">
           <h1 class="top"> Oolala.</h1>
           <div class="gallery">
-            <img class="polaroids" id="tshirt1" src="./assets/tshirtJustLauch.png">
-            <img class="polaroids" id="tshirt2" src="./assets/tshirtLAUCH1.png">
-            <img class="polaroids" id="tshirt3" src="./assets/tshirtLAUCH2.png">
-            <img class="polaroids" id="tshirt4" src="./assets/tshirtLAUCH3.png">
+            <img class="tshirt" id="tshirt1" src="./assets/tshirtJustLauch.png">
+            <img class="tshirt" id="tshirt2" src="./assets/tshirtLAUCH1.png">
+            <img class="tshirt" id="tshirt3" src="./assets/tshirtLAUCH2.png">
+            <img class="tshirt" id="tshirt4" src="./assets/tshirtLAUCH3.png">
           </div>
         </section>
         <section id="callToAction">
@@ -117,6 +117,10 @@ h1 {
 }
 .polaroids {
   border-radius: 50%;
+  max-width: 40%;
+  height: auto;
+}
+.tshirt {
   max-width: 20%;
   height: auto;
 }
